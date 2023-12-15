@@ -1,4 +1,0 @@
-string map_name
-string position_name
----
-geometry_msgs/PoseStamped pose_stamped

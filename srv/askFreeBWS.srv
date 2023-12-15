@@ -1,0 +1,9 @@
+
+---
+string station_name
+uint8 status
+string error_message
+
+uint8 SUCCESS = 1
+uint8 COMMUNICATION_INACTIVE = 2
+uint8 CONNECTION_REFUSED = 3
