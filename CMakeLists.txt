@@ -59,6 +59,7 @@ add_service_files(
   deleteMirMission.srv
   assertLiftValue.srv
   askOperationTime.srv
+  MirReadPositionValue.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
