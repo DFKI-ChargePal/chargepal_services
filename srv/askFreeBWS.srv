@@ -1,9 +1,4 @@
-
+bool ask_ldb             #To trigger false incase connection incative
 ---
 string station_name
-uint8 status
-string error_message
-
-uint8 SUCCESS = 1
-uint8 COMMUNICATION_INACTIVE = 2
-uint8 CONNECTION_REFUSED = 3
+string connection_status #To show connection status. Helps to refer rdb if connection fails continuously

@@ -1,4 +1,5 @@
-string cart_name
+string table_name
+string row_name
 -------
-int16 time_msec
+bool success
 string connection_status #To show connection status

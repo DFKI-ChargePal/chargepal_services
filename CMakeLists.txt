@@ -53,13 +53,15 @@ add_service_files(
   askFreeBCS.srv
   askFreeBWS.srv
   fetchJob.srv
-  pullLDB.srv
-  pushRDB.srv
+  pushToLDB.srv
   updateJobMonitor.srv
   deleteMirMission.srv
   assertLiftValue.srv
   askOperationTime.srv
   MirReadPositionValue.srv
+  resetStationBlocker.srv
+  updateRdbCopy.srv
+  verifyRdbSync.srv
 )
 
 ## Generate added messages and services with any dependencies listed here

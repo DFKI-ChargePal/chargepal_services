@@ -1,4 +1,4 @@
-string cart_name
+string station
 -------
-int16 time_msec
+bool success
 string connection_status #To show connection status

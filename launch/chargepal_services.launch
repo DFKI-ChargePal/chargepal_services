@@ -1,5 +1,3 @@
 <launch>
-	<arg name="ip_address" default="arbitary"/>
 	<node pkg="chargepal_services" type="chargepal_service.py" name="chargepal_service" output="screen" />	
-	<param name="server_msg_receiving_port" value="9002" />
 </launch>
