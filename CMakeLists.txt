@@ -62,13 +62,14 @@ add_service_files(
   resetStationBlocker.srv
   updateRdbCopy.srv
   verifyRdbSync.srv
+  readRobotCharge.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
 generate_messages(
-   DEPENDENCIES
-   std_msgs
-   geometry_msgs
+  DEPENDENCIES
+  std_msgs
+  geometry_msgs
  )
 
 ################################################
