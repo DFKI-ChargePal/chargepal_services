@@ -1,3 +1,8 @@
 string robot_name
+<<<<<<< HEAD
 ---
 float32 robot_charge
+=======
+-------
+int8 robot_charge
+>>>>>>> 57823474205f0620e02ea7673e0c9ea6f4812cf3
