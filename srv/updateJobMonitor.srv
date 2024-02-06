@@ -1,4 +1,5 @@
-
+string job_type
+string job_status
 -------
 bool success
 string connection_status #To show connection status
