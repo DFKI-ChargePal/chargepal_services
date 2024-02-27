@@ -63,6 +63,7 @@ add_service_files(
   updateRdbCopy.srv
   verifyRdbSync.srv
   readRobotCharge.srv
+  isReadyToPlugin.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
