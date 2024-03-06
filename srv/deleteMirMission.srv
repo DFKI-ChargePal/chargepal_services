@@ -1,3 +1,4 @@
+string robot_name
 -------
 bool success
 int8 mir_code
