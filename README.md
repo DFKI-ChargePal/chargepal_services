@@ -12,10 +12,12 @@ The chargepal_services package contains all the ros services servers affliated w
 ||charging_operation_time|Ask the server the charging time on the booking|
 ||reset_station_blocker|Reset a station blocker on the server|
 |/ldb_server/|  |  |
-||update_rdb_copy|Update the Robot Databse Copy|
-||verify_rdb_rdb_copy_sync|Check if Robot Databse and Robot Databse Copy are same|
+||update_rdb_copy|Update the Robot Database Copy|
+||verify_rdb_rdb_copy_sync|Check if Robot Database and Robot Database Copy are same|
 |/mir_rest_api/|||
 || clear_error |Clear an error state on MiR|
 ||delete_mission_queue|Delete a mission queue on MiR|
 || assert_lift_value |Check the cart assert lift state on MiR|
 ||robot_charge|Check robot charge on MiR|
+|/robot_arm/|  |  |
+||stop_free_drive_arm|Stop free drive mode from the arm|
