@@ -65,6 +65,7 @@ add_service_files(
   readRobotCharge.srv
   isReadyToPlugin.srv
   clearMirError.srv
+  stopFreeDriveArm.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
