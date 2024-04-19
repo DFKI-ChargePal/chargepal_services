@@ -66,6 +66,7 @@ add_service_files(
   isReadyToPlugin.srv
   clearMirError.srv
   stopFreeDriveArm.srv
+  resetIoForCart.srv
 )
 
 ## Generate added messages and services with any dependencies listed here
