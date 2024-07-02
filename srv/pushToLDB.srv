@@ -1,5 +1,0 @@
-string table_name
-string row_name
--------
-bool success
-string connection_status #To show connection status

@@ -1,4 +1,0 @@
-string station_name
--------
-bool ready_to_plugin
-string connection_status #To show connection status
