@@ -14,4 +14,5 @@ The chargepal_services package contains all the ros services servers affliated w
 ||delete_mission_queue|Delete a mission queue on MiR|
 || assert_lift_value |Check the cart assert lift state on MiR|
 ||robot_charge|Check robot charge on MiR|
-
+|/robot_arm/|||
+|| stop_free_drive_arm |Stop free drive mode from the arm|
