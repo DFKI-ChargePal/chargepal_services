@@ -53,17 +53,13 @@ add_service_files(
   askFreeBCS.srv
   askFreeBWS.srv
   fetchJob.srv
-  pushToLDB.srv
   updateJobMonitor.srv
   deleteMirMission.srv
   assertLiftValue.srv
   askOperationTime.srv
   MirReadPositionValue.srv
   resetStationBlocker.srv
-  updateRdbCopy.srv
-  verifyRdbSync.srv
   readRobotCharge.srv
-  isReadyToPlugin.srv
   clearMirError.srv
   getArmStatus.srv
   stopFreeDriveArm.srv
