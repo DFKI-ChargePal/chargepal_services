@@ -65,6 +65,7 @@ add_service_files(
   readRobotCharge.srv
   isReadyToPlugin.srv
   clearMirError.srv
+  getArmStatus.srv
   stopFreeDriveArm.srv
   resetIoForCart.srv
 )
